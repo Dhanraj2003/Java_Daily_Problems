@@ -3,7 +3,7 @@ package java_practice_program_30_oct;
 public class DiamondPattern {
     public static void main(String[] args) {
 
-        int size=5;
+        int size=15;
 
         for (int i=1;i<=size;i++)
         {
