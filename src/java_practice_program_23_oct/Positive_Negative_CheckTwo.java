@@ -2,7 +2,7 @@ package java_practice_program_23_oct;
 
 import java.util.Scanner;
 
-public class Positive_Negative_Check {
+public class Positive_Negative_CheckTwo {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/java_practice_program_30_oct" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/java_practice_program_31_oct" vcs="Git" />
   </component>
 </project>
